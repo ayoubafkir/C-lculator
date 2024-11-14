@@ -1,0 +1,14 @@
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /bin/Debug/net8.0/Calculator
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /bin/Debug/net8.0/Calculator.deps.json
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /bin/Debug/net8.0/Calculator.dll
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /bin/Debug/net8.0/Calculator.pdb
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.dll
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/refint/Calculator.dll
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.pdb
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/ayoubafkir/RiderProjects/Calculator /Calculator /obj/Debug/net8.0/ref/Calculator.dll
